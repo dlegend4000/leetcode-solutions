@@ -1,4 +1,4 @@
-class Solutiom:
+class Solution:
     def two_sum(self, nums, target):
         store = {}
         for i, num in enumerate(nums):
